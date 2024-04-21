@@ -1,0 +1,155 @@
+
+@media (min-width: 1004px) {
+    
+    #divmain
+            {
+               position: absolute;
+               width: 100%;  
+            }
+        
+        #Logoo
+            {
+                width: 200px;
+            }
+        
+        #DIV1
+            {
+                display: inline-block; 
+                width: 500px;
+                height: 150px;
+                margin-top: 50px;
+            }
+        
+        #DIV2
+            {
+                display: inline-block;
+                width: 500px;
+                height: 150px;
+                  
+            }
+        #imgdiv{
+    
+                width: 200px;
+                height: 150px;
+                float: left;
+                margin-right: 1%;
+               
+        }
+    
+        /* Paragrah  */
+    
+        #pIn
+            {
+                font-size: 15px;
+                font-family: Signika Negative
+                ;
+            }
+    
+            #mainp
+            { 
+                font-size: 80px;
+                font-family: Bebas Neue;
+            }
+            #diviinp
+            {
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-weight: 900;
+            }
+    
+            footer
+        {
+            position: absolute;
+            display: inline;
+            clear: both;
+            left: 70%;
+            font-size: 20px;
+            top: 90%;
+            color: navy;
+        }
+        
+    }
+        
+        
+    
+
+
+
+
+@media (max-width: 1003px) {
+    
+    #divmain
+            {
+               position: relative;
+               width: 100%;  
+            }
+            #Logoo
+            {
+                width: 150px;
+            }
+            
+            #DIV1
+            {
+                position: relative;
+                display: inline-block; 
+                width: 71%;
+                height: 400px;
+                margin-top: 0px;
+                left: 15%;
+                
+            }
+    
+            #DIV2
+            {
+                position: relative;
+                display: inline-block; 
+                width: 71%;
+                height: 400px;
+                left: 15%;
+                margin-top: 10px;
+                
+            }
+    
+            #imgdiv{
+                position: relative;
+                width: 100%;
+                
+             }
+    
+            #mainp
+            { 
+                font-size: 70px;
+                text-align: center;
+                font-family: Bebas Neue;
+            }
+            #pIn
+            {
+                font-size: 15px;
+                font-family: Signika Negative;
+               
+            }
+            #diviinp
+            {
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-weight: 900;
+            }
+
+            footer
+        {
+            position: absolute;
+            display: inline;
+            right: 0px;
+            font-size: 30px;
+            color: navy;
+        }
+        
+    
+    
+        
+    }
+        
+        
+    
+
+
+
+
